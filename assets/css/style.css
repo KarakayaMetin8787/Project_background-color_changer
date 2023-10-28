@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main .container {
+  width: 20%;
+  height: 20vh;
+  margin: 30vh auto;
+  border-radius: 10px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: white;
+}
+main .container input {
+  margin-block: 25px;
+  padding: 5px;
+  width: 90%;
+}
+main .container button {
+  margin-block: 25px;
+  padding: 5px;
+  width: 90%;
+}
+
+/*# sourceMappingURL=style.css.map */
